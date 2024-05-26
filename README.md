@@ -4,3 +4,5 @@ Homework4 : สร้าง web page ตาม figma
 ** สร้าง 2 แบบ
 1. แบบ flexbox ( responsive เป็น option )
 2. แบบ bootstrap5 (ต้องทำ responsive ด้วย)
+
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
